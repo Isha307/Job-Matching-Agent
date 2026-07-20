@@ -1,0 +1,30 @@
+[
+  {
+    "id": "job_1",
+    "title": "Data Engineer",
+    "company": "Google",
+    "location": "Delhi NCR",
+    "skills": ["Python", "Spark", "GCP"]
+  },
+  {
+    "id": "job_2",
+    "title": "Backend Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "skills": ["Java", "Spring Boot"]
+  },
+  {
+    "id": "job_3",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "Gurgaon",
+    "skills": ["Python", "Spark", "Kafka", "Airflow", "AWS"]
+  },
+  {
+    "id": "job_4",
+    "title": "Data Engineer",
+    "company": "Facebook",
+    "location": "Noida",
+    "skills": ["Python", "Spark", "Kafka", "Airflow", "GCP"]
+  }
+]
